@@ -1,3 +1,5 @@
+# Classificação de mensagens de texto de e-mail
+
 ## Orientações gerais
 - Buscou-se organizar os arquivos `.py` de tal maneira que refletisse o fluxo de trabalho
 executado durante a realização da atividade.
